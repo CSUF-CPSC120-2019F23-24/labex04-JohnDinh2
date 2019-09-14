@@ -11,7 +11,7 @@ int main()
 
     // get the numbers
     std::cout << "Enter three integers, each separated by one or more spaces: ";
-    std::cin >> num1 >> num2 >> num3;
+    std::cin >> num1 >> num2 >> num3
 
     //calculate the average of the numbers
        average = (num1 + num2 + num3) / NUM_INTS;
